@@ -1,5 +1,5 @@
 {
-    "name": "jens-kompter/react-renderer",
+    "name": "limenius/react-renderer",
     "description": "Client and Server-side React rendering",
     "type": "library",
     "keywords": ["react", "reactjs", "isomorphic", "twig"],
